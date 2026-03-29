@@ -2,38 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Kunal+Nibrad;Software+Engineer;Full+Stack+Developer;DSA+Enthusiast" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/KunalNib?label=Followers&style=social" alt="followers" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Nagpur,%20India-success" />
-  <img src="https://img.shields.io/badge/CGPA-9.31-blue" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-```javascript
-const kunal = {
-    education: "B.Tech CSE @ GHRCE",
-    location: "Nagpur, India",
-    cgpa: 9.31,
-    currentFocus: ["MERN Stack", "DSA", "System Design"],
-    goal: "Product-based companies & high-impact engineering roles",
-    problemsSolved: "300+",
-    workingOn: ["AI Chatbots", "Scalable Web Apps", "RAG Systems"]
-};
-```
 
 🎯 **Aspiring Software Engineer** with expertise in building scalable full-stack applications  
 🔥 Passionate about **clean code**, **efficient algorithms**, and **modern web technologies**  
 🚀 Currently preparing for **product-based internships** and competitive programming
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
